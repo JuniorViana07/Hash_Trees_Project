@@ -89,7 +89,7 @@ Estes dados são usados para geração de relatório de desempenho.
 O AppMain gera um arquivo CSV com o relatório usando as estatísticas citadas acima.
 
 
-🚀 Como executar o projeto
+Como executar o projeto
 
 1- Compile o projeto com seu IDE (foi usado IntelliJ no desenvolvimento)
 2- Execute a classe DatasetGenerator para gerar o arquivo transacoes.csv
